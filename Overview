@@ -1,0 +1,15 @@
+EV Grid Stress Analysis
+bit.ly/4sK0b3J 
+• EV Grid Stress Assessment and monitoring window to predict transformer overload risk across India's EV charging infrastructure.
+• Trained and evaluated five Machine Learning models, including Random Forest, XGBoost, Gradient Boosting, Support Vector Classifier, and
+Logistic Regression models using the Grid Search technique, where the Random Forest classifier achieves the highest accuracy of 1.00 with an Fl
+score of 1.00.
+
+Cardio Vascular Disease Detection
+shorturl.at/kDWlu 
+• Built a dashboard on the Kaggle Cardiovascular Disease Dataset – 70,000 patient records analyzed by 5 ML algorithms to deliver fast, accurate
+CVD risk detection.
+• Trained and evaluated six Machine Learning models, including Logistic Regression, Random Forest, XGBoost, SVM, Neural Networks, and
+Stacking Ensemble, using metrics such as Accuracy, Precision, Recall, Fl-Score, and ROC-AUC.
+• Achieved best performance with Neural Networks for capturing complex non-linear patterns.
+• Used SHAP (SHapley Additive explanations) to interpret model decisions and identify the most influential features.
